@@ -1,4 +1,5 @@
-Sprite Mover is a tool that helps animators to test their sprite sheets.
+## Sprite Mover
+A tool that helps animators to test their sprite sheets in motion.
 
 You can set:
 - Frame Count
@@ -16,9 +17,7 @@ Here's how you can deploy it:
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
-
-First, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
@@ -30,6 +29,6 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser and enjoy!
 
 
