@@ -1,5 +1,7 @@
-## Sprite Mover
+# Sprite Mover
 A tool that helps animators to test their sprite sheets in motion.
+
+Sprite Mover is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 You can set:
 - Frame Count
@@ -13,9 +15,7 @@ You can import the sprite sheet by browsing or drag & dropping onto the page.
 
 You can play/pause the animation and adjust it's speed.
 
-Here's how you can deploy it:
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Here's how you can deploy it:
 
 Run the development server:
 
