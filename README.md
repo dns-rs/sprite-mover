@@ -31,4 +31,5 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser and enjoy!
 
-
+## Preview:
+<img width="1920" height="1374" alt="SpriteMover" src="https://github.com/user-attachments/assets/2d55ff0f-88a9-4580-ac64-071e278351ed" />
